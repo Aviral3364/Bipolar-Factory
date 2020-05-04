@@ -1,4 +1,5 @@
 # Bipolar-Factory
+[![HitCount](http://hits.dwyl.com/Aviral3364/Bipolar-Factory.svg)](http://hits.dwyl.com/Aviral3364/Bipolar-Factory)
 It a short project coded in python which does data scrapping on one of the websites and cleans the data retrived from the web.
 Data is retrived into two parts. In the first part,text data retrieval takes place and in the second part images are scrapped from the popular websites. After scrapping the desired amount of data from popular websites, unstructured data is converted in structured data. Cleaning of data is done with modules present in python like Pandas, Numpy etc.
 After cleaning the scrapped data, program outputs two files, one is database file of Information.db and the other mix.csv file. 
